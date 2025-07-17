@@ -22,33 +22,20 @@ NLU goes beyond simple text processing to understand the context, intent, and me
 
 ## Key Components
 
-### 1. Intent Recognition
-Identifying the user's goal or purpose from their input. For example:
-- "Book a flight to Paris" → Intent: `book_flight`
-- "What's the weather like?" → Intent: `get_weather`
+### Domain adaptation for supervised sentiment
 
-### 2. Entity Extraction
-Identifying and categorizing specific pieces of information:
-- **Named Entities**: People, organizations, locations
-- **Temporal Entities**: Dates, times, durations
-- **Numerical Entities**: Quantities, measurements, prices
+#### 1. Contextual word representations
 
-### 3. Slot Filling
-Extracting structured data from unstructured text:
-```
-Input: "I need a flight from New York to London on March 15th"
-Output: {
-  "origin": "New York",
-  "destination": "London", 
-  "date": "2024-03-15"
-}
-```
+#### 2. Diffusion objectives for text 
 
-### 4. Context Management
-Maintaining conversation state and understanding references:
-- Pronouns resolution ("it", "they", "that")
-- Conversation history tracking
-- Multi-turn dialogue understanding
+### 3. Fantastic language models and how to build them 
+
+### Retrieval augmented in-context learning
+
+### 4. Information retrieval
+
+
+
 
 ## Applications
 
