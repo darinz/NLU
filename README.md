@@ -38,6 +38,19 @@ NLU goes beyond simple text processing to understand the context, intent, and me
 
 ## Advanced behavioral evaluation
 
+### 7. Advanced behavioral evaluation of NLU models
+
+## Analysis methods
+
+### 8. Analysis methods for NLU
+
+## NLP methods
+
+### 9. Experiment protocol
+
+### 10. NLP methods and metrics
+
+### 11. Real-world NLP assessments 
 
 ## Applications
 
