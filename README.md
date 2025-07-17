@@ -20,8 +20,6 @@ NLU goes beyond simple text processing to understand the context, intent, and me
 - **Context Understanding**: Grasping the broader context of conversations
 - **Sentiment Analysis**: Determining the emotional tone of text
 
-## Key Components
-
 ### Domain adaptation for supervised sentiment
 
 #### 1. Contextual word representations
@@ -32,7 +30,7 @@ NLU goes beyond simple text processing to understand the context, intent, and me
 
 ### Retrieval augmented in-context learning
 
-### 4. Information retrieval
+#### 4. Information retrieval
 
 
 
