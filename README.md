@@ -28,7 +28,7 @@ NLU goes beyond simple text processing to understand the context, intent, and me
 
 #### 2. Diffusion objectives for text 
 
-### 3. Fantastic language models and how to build them 
+#### 3. Fantastic language models and how to build them 
 
 ### Retrieval augmented in-context learning
 
