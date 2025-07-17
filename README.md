@@ -20,19 +20,23 @@ NLU goes beyond simple text processing to understand the context, intent, and me
 - **Context Understanding**: Grasping the broader context of conversations
 - **Sentiment Analysis**: Determining the emotional tone of text
 
-### Domain adaptation for supervised sentiment
+## Domain adaptation for supervised sentiment
 
-#### 1. Contextual word representations
+### 1. Contextual word representations
 
-#### 2. Diffusion objectives for text 
+### 2. Diffusion objectives for text 
 
-#### 3. Fantastic language models and how to build them 
+### 3. Fantastic language models and how to build them 
 
-### Retrieval augmented in-context learning
+## Retrieval augmented in-context learning
 
-#### 4. Information retrieval
+### 4. Information retrieval
 
+### 5. In-context learning
 
+### 6. Prompters before prompts and promptees
+
+## Advanced behavioral evaluation
 
 
 ## Applications
